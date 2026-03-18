@@ -31,7 +31,8 @@ Customer Segmentation
 
 ## KEY INSIGHTS 
 
-# Sales & Quantity 
+ Sales & Quantity 
+ 
  Sales increase steadily as order quantity increases, showing that bulk orders generate higher 
 revenue. 
  Quantity level 5 contributes the highest sales value. 
